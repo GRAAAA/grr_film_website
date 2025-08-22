@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kodak Gold III 100 - 35mm Film Roll
+* source:	https://sketchfab.com/3d-models/kodak-gold-iii-100-35mm-film-roll-6601bc8c59824e1fa67d1bbbf90eeebf
+* author:	KilianPohl (https://sketchfab.com/Kilianpohl91)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kodak Gold III 100 - 35mm Film Roll" (https://sketchfab.com/3d-models/kodak-gold-iii-100-35mm-film-roll-6601bc8c59824e1fa67d1bbbf90eeebf) by KilianPohl (https://sketchfab.com/Kilianpohl91) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

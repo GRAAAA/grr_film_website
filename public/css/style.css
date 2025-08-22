@@ -1,0 +1,53 @@
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Boldonse&family=Dosis:wght@200..800&family=Fjalla+One&display=swap');
+
+.section {
+    position: relative;
+    min-height: 100vh;
+    border: 8px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2.0rem;
+    align-items: space-evenly;
+    justify-content: center;
+    align-items: center;
+}
+.box {
+    height: 400px;
+    width: 400px;
+    font-size: 1.0rem;
+    justify-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.box1 {
+    z-index: 5;
+    font-family: "Boldonse", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 10rem;
+    height: 100vh;
+    width: 50vh;
+    line-height: 13.2rem;
+
+    display: grid;
+    place-items: center start;
+}
+.box2{
+    height: 100vh;
+    width: 50%;
+}
+
+.section1 {
+}
+.section2 {
+}
+
+#container3D canvas {
+    position: absolute;
+    width: 100vw !important;
+    height: 100vh !important;
+    top: 0;
+    left: 15%;
+    z-index: 1;
+}
